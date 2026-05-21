@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasktuple\\tasktuple\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|solutionrelative:tasktuple\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasktuple\\tasktuple\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|solutionrelative:tasktuple\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasktuple\\tasktuple\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|solutionrelative:tasktuple\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasktuple\\tasktuple\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|solutionrelative:tasktuple\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasktuple\\tasktuple\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0FE4EA-9C4A-4DFD-B7E5-0FFA4179F645}|TaskTuple\\TaskTuple.csproj|solutionrelative:tasktuple\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskTuple\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskTuple\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T10:37:28.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTuple\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "TaskTuple\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T10:37:29.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TaskTuple\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TaskTuple\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:37:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TaskTuple\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Models\\Course.cs",
+              "RelativeToolTip": "TaskTuple\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:37:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TaskTuple\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TaskTuple\\TaskTuple\\Models\\Student.cs",
+              "RelativeToolTip": "TaskTuple\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:37:29.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
