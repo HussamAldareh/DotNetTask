@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|c:\\users\\user\\onedrive\\documents\\orangecsharptasks\\tasksasp.net\\tasksasp.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E8C9227-CB42-44FA-969B-D3C18BED8180}|TasksAsp.net\\TasksAsp.net.csproj|solutionrelative:tasksasp.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Views\\Student\\index.cshtml",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Views\\Student\\index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Views\\Student\\index.cshtml",
+              "RelativeToolTip": "TasksAsp.net\\Views\\Student\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T09:22:44.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TasksAsp.net\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:08:38.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Program.cs",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Program.cs",
+              "RelativeToolTip": "TasksAsp.net\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:41:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\appsettings.json",
+              "RelativeDocumentMoniker": "TasksAsp.net\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\appsettings.json",
+              "RelativeToolTip": "TasksAsp.net\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T08:39:46.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TasksAsp.net\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:30:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Models\\Student.cs",
+              "RelativeToolTip": "TasksAsp.net\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:27:46.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksAsp.net\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OrangeCSharpTasks\\TasksAsp.net\\TasksAsp.net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TasksAsp.net\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:25:53.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

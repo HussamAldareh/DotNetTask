@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\bin\Debug\Tasks_Interface & Exception.exe.config
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\bin\Debug\Tasks_Interface & Exception.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\bin\Debug\Tasks_Interface & Exception.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\obj\Debug\Tasks_Interface & Exception.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\obj\Debug\Tasks_Interface & Exception.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\obj\Debug\Tasks_Interface & Exception.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\obj\Debug\Tasks_Interface & Exception.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\Tasks_Interface & Exception\Tasks_Interface & Exception\obj\Debug\Tasks_Interface & Exception.exe.config
